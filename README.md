@@ -21,4 +21,5 @@ When you have unzipped the binary file, there's no installer. They students shou
 
 - Install Terraform `choco install terraform`
 - Check installation `terraform --version`
+- Powershell ENV refresh command `refreshenv`
 
